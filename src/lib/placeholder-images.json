@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "header-avatar",
+      "description": "User avatar in header",
+      "imageUrl": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9maWxlJTIwcGljdHVyZXxlbnwwfHx8fDE3NjU0MjczODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile picture"
+    },
+    {
+      "id": "rank-user-1",
+      "description": "Rank 1 user avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1598550880863-4e8aa3d0edb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcm9maWxlJTIwcGljdHVyZXxlbnwwfHx8fDE3NjU0MjczODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile picture"
+    },
+    {
+      "id": "rank-user-2",
+      "description": "Rank 2 user avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9maWxlJTIwcGljdHVyZXxlbnwwfHx8fDE3NjU0MjczODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile picture"
+    },
+    {
+      "id": "rank-user-3",
+      "description": "Rank 3 user avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHx8fHwxNzY1NDI3MzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile picture"
+    },
+    {
+      "id": "rank-user-4",
+      "description": "Rank 4 user avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1598550880863-4e8aa3d0edb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcm9maWxlJTIwcGljdHVyZXxlbnwwfHx8fDE3NjU0MjczODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile picture"
+    },
+    {
+      "id": "rank-user-5",
+      "description": "Rank 5 user avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcm9maWxlJTIwcGljdHVyZXxlbnwwfHx8fDE3NjU0MjczODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile picture"
+    },
+    {
+      "id": "news-image-1",
+      "description": "Featured news article image",
+      "imageUrl": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBnYW1lfGVufDB8fHx8MTc2NTQ3MDMwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soccer game"
+    },
+    {
+      "id": "news-image-2",
+      "description": "Second news article image",
+      "imageUrl": "https://images.unsplash.com/photo-1553771542-e649560a4c28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwbGF5ZXIlMjBzaWduaW5nJTIwY29udHJhY3R8ZW58MHx8fHwxNzY1NTQ0NTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "player signing contract"
+    },
+    {
+      "id": "news-image-3",
+      "description": "Third news article image",
+      "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjB0cmFpbmluZyUyMHNlc3Npb258ZW58MHx8fHwxNzY1NTQ0NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soccer training"
+    },
+    {
+      "id": "news-image-4",
+      "description": "Fourth news article image",
+      "imageUrl": "https://images.unsplash.com/photo-1628891883906-a85933203598?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2ZXRlcmFuJTIwcGxheWVyJTIwY29hY2hpbmd8ZW58MHx8fHwxNzY1NTQ0NjY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "veteran player"
+    }
+  ]
+}
